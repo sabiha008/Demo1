@@ -1,2 +1,10 @@
 hi this is demo1 txt.
 i am editing this file in branch file.
+first commit is done.
+what i understood is, first we will have one main file  that one others will copy as new branches, and then do changes in those branches. and commit changes into those branches
+then when we want those changes in our main branch, we go back to main / master/ default branch 
+and then we go to pull request
+and then we can compare the branch and main file
+and then if ok we can click on merge request. if not ok i dont know waht to do .. may be we wont click on merge.
+so taking the positive case where we clicked on merge request. now the changes will be there in main branch also
+we can then delete the branch by clicking on all branches info
